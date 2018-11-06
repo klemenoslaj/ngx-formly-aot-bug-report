@@ -5,6 +5,8 @@ import { FormGroup } from '@angular/forms';
 @Component({
   selector: 'app-root',
   template: `
+    <h3>Please make sure to serfve the application using <code>--aot</code> flag.</h3>
+
     <form [formGroup]="form" (ngSubmit)="submit(model)">
       <formly-form [form]="form" [fields]="fields" [model]="model">
         <button type="submit" class="btn btn-default">Submit</button>
