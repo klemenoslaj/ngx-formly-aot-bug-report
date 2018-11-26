@@ -2,24 +2,24 @@
 # yarn lockfile v1
 
 
-"@angular-devkit/architect@0.10.4":
-  version "0.10.4"
-  resolved "https://artifactory.censhare.com/artifactory/api/npm/npm/@angular-devkit/architect/-/architect-0.10.4.tgz#8e6fffc61ab3b8fbaf2881d583343223d57d9dd0"
-  integrity sha1-jm//xhqzuPuvKIHVgzQyI9V9ndA=
+"@angular-devkit/architect@0.10.6":
+  version "0.10.6"
+  resolved "https://artifactory.censhare.com/artifactory/api/npm/npm/@angular-devkit/architect/-/architect-0.10.6.tgz#7007e7591be21eeb478951106c84c83802ca21a4"
+  integrity sha1-cAfnWRviHutHiVEQbITIOALKIaQ=
   dependencies:
-    "@angular-devkit/core" "7.0.4"
+    "@angular-devkit/core" "7.0.6"
     rxjs "6.3.3"
 
-"@angular-devkit/build-angular@~0.10.0":
-  version "0.10.4"
-  resolved "https://artifactory.censhare.com/artifactory/api/npm/npm/@angular-devkit/build-angular/-/build-angular-0.10.4.tgz#fa84ead5441e1c7c8b1a71f6b2852dc6ea420a41"
-  integrity sha1-+oTq1UQeHHyLGnH2soUtxupCCkE=
+"@angular-devkit/build-angular@~0.10.6":
+  version "0.10.6"
+  resolved "https://artifactory.censhare.com/artifactory/api/npm/npm/@angular-devkit/build-angular/-/build-angular-0.10.6.tgz#9c713a786de89a68063bd9e86516eb450f2dac72"
+  integrity sha1-nHE6eG3ommgGO9noZRbrRQ8trHI=
   dependencies:
-    "@angular-devkit/architect" "0.10.4"
-    "@angular-devkit/build-optimizer" "0.10.4"
-    "@angular-devkit/build-webpack" "0.10.4"
-    "@angular-devkit/core" "7.0.4"
-    "@ngtools/webpack" "7.0.4"
+    "@angular-devkit/architect" "0.10.6"
+    "@angular-devkit/build-optimizer" "0.10.6"
+    "@angular-devkit/build-webpack" "0.10.6"
+    "@angular-devkit/core" "7.0.6"
+    "@ngtools/webpack" "7.0.6"
     ajv "6.5.3"
     autoprefixer "9.1.5"
     circular-dependency-plugin "5.0.2"
@@ -64,29 +64,29 @@
   optionalDependencies:
     node-sass "4.9.3"
 
-"@angular-devkit/build-optimizer@0.10.4":
-  version "0.10.4"
-  resolved "https://artifactory.censhare.com/artifactory/api/npm/npm/@angular-devkit/build-optimizer/-/build-optimizer-0.10.4.tgz#900e9221bf4033bd28b67dc3fedf1c05b4f8b13a"
-  integrity sha1-kA6SIb9AM70otn3D/t8cBbT4sTo=
+"@angular-devkit/build-optimizer@0.10.6":
+  version "0.10.6"
+  resolved "https://artifactory.censhare.com/artifactory/api/npm/npm/@angular-devkit/build-optimizer/-/build-optimizer-0.10.6.tgz#ca7db9b3d5378b2759509692f02a5fb5af273dd0"
+  integrity sha1-yn25s9U3iydZUJaS8Cpfta8nPdA=
   dependencies:
     loader-utils "1.1.0"
     source-map "0.5.6"
-    typescript "3.1.3"
+    typescript "3.1.6"
     webpack-sources "1.2.0"
 
-"@angular-devkit/build-webpack@0.10.4":
-  version "0.10.4"
-  resolved "https://artifactory.censhare.com/artifactory/api/npm/npm/@angular-devkit/build-webpack/-/build-webpack-0.10.4.tgz#54284f57cf0f972cafc9e002866b90e33d2e6394"
-  integrity sha1-VChPV88PlyyvyeAChmuQ4z0uY5Q=
+"@angular-devkit/build-webpack@0.10.6":
+  version "0.10.6"
+  resolved "https://artifactory.censhare.com/artifactory/api/npm/npm/@angular-devkit/build-webpack/-/build-webpack-0.10.6.tgz#d3acb781f97406a49a3e3adfcc49a8518d33e291"
+  integrity sha1-06y3gfl0BqSaPjrfzEmoUY0z4pE=
   dependencies:
-    "@angular-devkit/architect" "0.10.4"
-    "@angular-devkit/core" "7.0.4"
+    "@angular-devkit/architect" "0.10.6"
+    "@angular-devkit/core" "7.0.6"
     rxjs "6.3.3"
 
-"@angular-devkit/core@7.0.4":
-  version "7.0.4"
-  resolved "https://artifactory.censhare.com/artifactory/api/npm/npm/@angular-devkit/core/-/core-7.0.4.tgz#b64c3c36d2bcaf3e42eb27ee2dbbc65373255a7c"
-  integrity sha1-tkw8NtK8rz5C6yfuLbvGU3MlWnw=
+"@angular-devkit/core@7.0.6":
+  version "7.0.6"
+  resolved "https://artifactory.censhare.com/artifactory/api/npm/npm/@angular-devkit/core/-/core-7.0.6.tgz#26c4cd4d271e8cd03f6e50b4ec30cbc606f3346e"
+  integrity sha1-JsTNTScejNA/blC07DDLxgbzNG4=
   dependencies:
     ajv "6.5.3"
     chokidar "2.0.4"
@@ -94,59 +94,59 @@
     rxjs "6.3.3"
     source-map "0.7.3"
 
-"@angular-devkit/schematics@7.0.4":
-  version "7.0.4"
-  resolved "https://artifactory.censhare.com/artifactory/api/npm/npm/@angular-devkit/schematics/-/schematics-7.0.4.tgz#80f31e7a3f9ad4405fd034208046705bb844bf7f"
-  integrity sha1-gPMeej+a1EBf0DQggEZwW7hEv38=
+"@angular-devkit/schematics@7.0.6":
+  version "7.0.6"
+  resolved "https://artifactory.censhare.com/artifactory/api/npm/npm/@angular-devkit/schematics/-/schematics-7.0.6.tgz#97fca028bd937e2319d9d34c12b82e8d1d99de23"
+  integrity sha1-l/ygKL2TfiMZ2dNMErgujR2Z3iM=
   dependencies:
-    "@angular-devkit/core" "7.0.4"
+    "@angular-devkit/core" "7.0.6"
     rxjs "6.3.3"
 
-"@angular/animations@~7.0.0":
-  version "7.0.2"
-  resolved "https://artifactory.censhare.com/artifactory/api/npm/npm/@angular/animations/-/animations-7.0.2.tgz#84513e8958b8fb57a35f6e494a0d465d081c7f8d"
-  integrity sha1-hFE+iVi4+1ejX25JSg1GXQgcf40=
+"@angular/animations@~7.1.0":
+  version "7.1.0"
+  resolved "https://artifactory.censhare.com/artifactory/api/npm/npm/@angular/animations/-/animations-7.1.0.tgz#3f03175217a45b72e53310d9ab35e69802ad9555"
+  integrity sha1-PwMXUhekW3LlMxDZqzXmmAKtlVU=
   dependencies:
     tslib "^1.9.0"
 
-"@angular/cdk@^7.0.3":
-  version "7.0.3"
-  resolved "https://artifactory.censhare.com/artifactory/api/npm/npm/@angular/cdk/-/cdk-7.0.3.tgz#6f6ca3203470dfa91858a421d72c8e41765644e5"
-  integrity sha1-b2yjIDRw36kYWKQh1yyOQXZWROU=
+"@angular/cdk@^7.1.0":
+  version "7.1.0"
+  resolved "https://artifactory.censhare.com/artifactory/api/npm/npm/@angular/cdk/-/cdk-7.1.0.tgz#7e5c3e3631947ef91413a83997ec4edec92cdd1c"
+  integrity sha1-flw+NjGUfvkUE6g5l+xO3sks3Rw=
   dependencies:
     tslib "^1.7.1"
   optionalDependencies:
     parse5 "^5.0.0"
 
-"@angular/cli@~7.0.3":
-  version "7.0.4"
-  resolved "https://artifactory.censhare.com/artifactory/api/npm/npm/@angular/cli/-/cli-7.0.4.tgz#2ba6e8814b38b0fbbf487fac1907138bb4e0cd22"
-  integrity sha1-K6bogUs4sPu/SH+sGQcTi7TgzSI=
+"@angular/cli@~7.0.6":
+  version "7.0.6"
+  resolved "https://artifactory.censhare.com/artifactory/api/npm/npm/@angular/cli/-/cli-7.0.6.tgz#f97bc9ca92785c7ce2e5f20819c48265a1da5b53"
+  integrity sha1-+XvJypJ4XHzi5fIIGcSCZaHaW1M=
   dependencies:
-    "@angular-devkit/architect" "0.10.4"
-    "@angular-devkit/core" "7.0.4"
-    "@angular-devkit/schematics" "7.0.4"
-    "@schematics/angular" "7.0.4"
-    "@schematics/update" "0.10.4"
+    "@angular-devkit/architect" "0.10.6"
+    "@angular-devkit/core" "7.0.6"
+    "@angular-devkit/schematics" "7.0.6"
+    "@schematics/angular" "7.0.6"
+    "@schematics/update" "0.10.6"
     inquirer "6.2.0"
     opn "5.3.0"
     rxjs "6.3.3"
     semver "5.5.1"
     symbol-observable "1.2.0"
 
-"@angular/common@~7.0.0":
-  version "7.0.2"
-  resolved "https://artifactory.censhare.com/artifactory/api/npm/npm/@angular/common/-/common-7.0.2.tgz#0cb62f93a43ec1c75762deffb329caff53d9ba27"
-  integrity sha1-DLYvk6Q+wcdXYt7/synK/1PZuic=
+"@angular/common@~7.1.0":
+  version "7.1.0"
+  resolved "https://artifactory.censhare.com/artifactory/api/npm/npm/@angular/common/-/common-7.1.0.tgz#89b0a34fd8f2a323704369551be4ac7491dda0b7"
+  integrity sha1-ibCjT9jyoyNwQ2lVG+SsdJHdoLc=
   dependencies:
     tslib "^1.9.0"
 
-"@angular/compiler-cli@~7.0.0":
-  version "7.0.2"
-  resolved "https://artifactory.censhare.com/artifactory/api/npm/npm/@angular/compiler-cli/-/compiler-cli-7.0.2.tgz#ddfcc6ebeca46bc490fa953a1accc26a7ed93a05"
-  integrity sha1-3fzG6+yka8SQ+pU6GszCan7ZOgU=
+"@angular/compiler-cli@~7.1.0":
+  version "7.1.0"
+  resolved "https://artifactory.censhare.com/artifactory/api/npm/npm/@angular/compiler-cli/-/compiler-cli-7.1.0.tgz#b02b2f94b9510caadc2b16bf1f97aa41d21a3ce2"
+  integrity sha1-sCsvlLlRDKrcKxa/H5eqQdIaPOI=
   dependencies:
-    canonical-path "0.0.2"
+    canonical-path "1.0.0"
     chokidar "^1.4.2"
     convert-source-map "^1.5.1"
     dependency-graph "^0.7.2"
@@ -155,119 +155,120 @@
     reflect-metadata "^0.1.2"
     shelljs "^0.8.1"
     source-map "^0.6.1"
+    tslib "^1.9.0"
     yargs "9.0.1"
 
-"@angular/compiler@~7.0.0":
-  version "7.0.2"
-  resolved "https://artifactory.censhare.com/artifactory/api/npm/npm/@angular/compiler/-/compiler-7.0.2.tgz#7fc3427ee58a2d122d3a039396cec316dd11c4cb"
-  integrity sha1-f8NCfuWKLRItOgOTls7DFt0RxMs=
+"@angular/compiler@~7.1.0":
+  version "7.1.0"
+  resolved "https://artifactory.censhare.com/artifactory/api/npm/npm/@angular/compiler/-/compiler-7.1.0.tgz#3455eeb575d0b9b68a099b5781d3cce78468146a"
+  integrity sha1-NFXutXXQubaKCZtXgdPM54RoFGo=
   dependencies:
     tslib "^1.9.0"
 
-"@angular/core@~7.0.0":
-  version "7.0.2"
-  resolved "https://artifactory.censhare.com/artifactory/api/npm/npm/@angular/core/-/core-7.0.2.tgz#cfb4ae7504473cc2600b24a9c7cfa5d808486cc2"
-  integrity sha1-z7SudQRHPMJgCySpx8+l2AhIbMI=
+"@angular/core@~7.1.0":
+  version "7.1.0"
+  resolved "https://artifactory.censhare.com/artifactory/api/npm/npm/@angular/core/-/core-7.1.0.tgz#a55fbbc28b2c9da767121f433733683780266eb3"
+  integrity sha1-pV+7wossnadnEh9DNzNoN4AmbrM=
   dependencies:
     tslib "^1.9.0"
 
-"@angular/forms@~7.0.0":
-  version "7.0.2"
-  resolved "https://artifactory.censhare.com/artifactory/api/npm/npm/@angular/forms/-/forms-7.0.2.tgz#6c7e5f897c30a68714727a7979d10708cba4708b"
-  integrity sha1-bH5fiXwwpocUcnp5edEHCMukcIs=
+"@angular/forms@~7.1.0":
+  version "7.1.0"
+  resolved "https://artifactory.censhare.com/artifactory/api/npm/npm/@angular/forms/-/forms-7.1.0.tgz#8e6ab4412c5b6ad1d3b2f0be6612d601104dcf78"
+  integrity sha1-jmq0QSxbatHTsvC+ZhLWARBNz3g=
   dependencies:
     tslib "^1.9.0"
 
-"@angular/http@~7.0.0":
-  version "7.0.2"
-  resolved "https://artifactory.censhare.com/artifactory/api/npm/npm/@angular/http/-/http-7.0.2.tgz#c76771955d3c10c6081c76b0a5a1abf15de33631"
-  integrity sha1-x2dxlV08EMYIHHawpaGr8V3jNjE=
+"@angular/http@~7.1.0":
+  version "7.1.0"
+  resolved "https://artifactory.censhare.com/artifactory/api/npm/npm/@angular/http/-/http-7.1.0.tgz#9243d6a0fae5b5fd12aa9408e3dbaffad54deb9b"
+  integrity sha1-kkPWoPrltf0SqpQI49uv+tVN65s=
   dependencies:
     tslib "^1.9.0"
 
-"@angular/language-service@~7.0.0":
-  version "7.0.2"
-  resolved "https://artifactory.censhare.com/artifactory/api/npm/npm/@angular/language-service/-/language-service-7.0.2.tgz#3a38fa4419b088f0916f59c41436dd8303108ee4"
-  integrity sha1-Ojj6RBmwiPCRb1nEFDbdgwMQjuQ=
+"@angular/language-service@~7.1.0":
+  version "7.1.0"
+  resolved "https://artifactory.censhare.com/artifactory/api/npm/npm/@angular/language-service/-/language-service-7.1.0.tgz#148e2f9714a6f4bd9d00a7b532b60c21cd947651"
+  integrity sha1-FI4vlxSm9L2dAKe1MrYMIc2UdlE=
 
-"@angular/material@^7.0.3":
-  version "7.0.3"
-  resolved "https://artifactory.censhare.com/artifactory/api/npm/npm/@angular/material/-/material-7.0.3.tgz#81df814ab4da7df4f0f7241852950795936d3cd5"
-  integrity sha1-gd+BSrTaffTw9yQYUpUHlZNtPNU=
+"@angular/material@^7.1.0":
+  version "7.1.0"
+  resolved "https://artifactory.censhare.com/artifactory/api/npm/npm/@angular/material/-/material-7.1.0.tgz#441f2d03a97a1fa35546b61dcde86db34f0f5efc"
+  integrity sha1-RB8tA6l6H6NVRrYdzehts08PXvw=
   dependencies:
     tslib "^1.7.1"
 
-"@angular/platform-browser-dynamic@~7.0.0":
-  version "7.0.2"
-  resolved "https://artifactory.censhare.com/artifactory/api/npm/npm/@angular/platform-browser-dynamic/-/platform-browser-dynamic-7.0.2.tgz#72ae6867103d4c4811bd34e65df1f1cdc6aa7111"
-  integrity sha1-cq5oZxA9TEgRvTTmXfHxzcaqcRE=
+"@angular/platform-browser-dynamic@~7.1.0":
+  version "7.1.0"
+  resolved "https://artifactory.censhare.com/artifactory/api/npm/npm/@angular/platform-browser-dynamic/-/platform-browser-dynamic-7.1.0.tgz#c7d07f6b1c08fa12c54b4e310da930da613c7e6e"
+  integrity sha1-x9B/axwI+hLFS04xDakw2mE8fm4=
   dependencies:
     tslib "^1.9.0"
 
-"@angular/platform-browser@~7.0.0":
-  version "7.0.2"
-  resolved "https://artifactory.censhare.com/artifactory/api/npm/npm/@angular/platform-browser/-/platform-browser-7.0.2.tgz#0ec8fa13ac41a97f0fe648265082d2d32f8b2a70"
-  integrity sha1-Dsj6E6xBqX8P5kgmUILS0y+LKnA=
+"@angular/platform-browser@~7.1.0":
+  version "7.1.0"
+  resolved "https://artifactory.censhare.com/artifactory/api/npm/npm/@angular/platform-browser/-/platform-browser-7.1.0.tgz#0d40fed536a08d66ea580f6c4d2976310d559111"
+  integrity sha1-DUD+1TagjWbqWA9sTSl2MQ1VkRE=
   dependencies:
     tslib "^1.9.0"
 
-"@angular/router@~7.0.0":
-  version "7.0.2"
-  resolved "https://artifactory.censhare.com/artifactory/api/npm/npm/@angular/router/-/router-7.0.2.tgz#765aa7e03744d53b2c2e06e4b6e190505da47267"
-  integrity sha1-dlqn4DdE1TssLgbktuGQUF2kcmc=
+"@angular/router@~7.1.0":
+  version "7.1.0"
+  resolved "https://artifactory.censhare.com/artifactory/api/npm/npm/@angular/router/-/router-7.1.0.tgz#19b66e127065dfc2106793e81d660790422e73b0"
+  integrity sha1-GbZuEnBl38IQZ5PoHWYHkEIuc7A=
   dependencies:
     tslib "^1.9.0"
 
-"@ngtools/webpack@7.0.4":
-  version "7.0.4"
-  resolved "https://artifactory.censhare.com/artifactory/api/npm/npm/@ngtools/webpack/-/webpack-7.0.4.tgz#24453a7ac2218f4d901f3f9d84053f81a39c5a80"
-  integrity sha1-JEU6esIhj02QHz+dhAU/gaOcWoA=
+"@ngtools/webpack@7.0.6":
+  version "7.0.6"
+  resolved "https://artifactory.censhare.com/artifactory/api/npm/npm/@ngtools/webpack/-/webpack-7.0.6.tgz#cc4f4189765f6743417b4eee946fb69590f93ce1"
+  integrity sha1-zE9BiXZfZ0NBe07ulG+2lZD5POE=
   dependencies:
-    "@angular-devkit/core" "7.0.4"
+    "@angular-devkit/core" "7.0.6"
     enhanced-resolve "4.1.0"
     rxjs "6.3.3"
     tree-kill "1.2.0"
     webpack-sources "1.2.0"
 
-"@ngx-formly/core@^5.0.0-beta.15":
-  version "5.0.0-beta.15"
-  resolved "https://artifactory.censhare.com/artifactory/api/npm/npm/@ngx-formly/core/-/core-5.0.0-beta.15.tgz#47efa8c9bad11a7da101984eb36852a5df47e451"
-  integrity sha1-R++oybrRGn2hAZhOs2hSpd9H5FE=
+"@ngx-formly/core@5.0.0-beta.17":
+  version "5.0.0-beta.17"
+  resolved "https://artifactory.censhare.com/artifactory/api/npm/npm/@ngx-formly/core/-/core-5.0.0-beta.17.tgz#9a6637182321874c8a6012f21b5a388bcd13679d"
+  integrity sha1-mmY3GCMhh0yKYBLyG1o4i80TZ50=
   dependencies:
     tslib "^1.7.1"
 
-"@ngx-formly/material@^5.0.0-beta.15":
-  version "5.0.0-beta.15"
-  resolved "https://artifactory.censhare.com/artifactory/api/npm/npm/@ngx-formly/material/-/material-5.0.0-beta.15.tgz#0972165c149a2ee09618ceb745d4a167d4bf2bfc"
-  integrity sha1-CXIWXBSaLuCWGM63RdShZ9S/K/w=
+"@ngx-formly/material@5.0.0-beta.17":
+  version "5.0.0-beta.17"
+  resolved "https://artifactory.censhare.com/artifactory/api/npm/npm/@ngx-formly/material/-/material-5.0.0-beta.17.tgz#0a790c4f51a2b8a82723f98d210d1db12601bd11"
+  integrity sha1-CnkMT1GiuKgnI/mNIQ0dsSYBvRE=
   dependencies:
     tslib "^1.9.0"
 
-"@schematics/angular@7.0.4":
-  version "7.0.4"
-  resolved "https://artifactory.censhare.com/artifactory/api/npm/npm/@schematics/angular/-/angular-7.0.4.tgz#4d4c42a7f490cbcb8859db2b2e886e3077153df6"
-  integrity sha1-TUxCp/SQy8uIWdsrLohuMHcVPfY=
+"@schematics/angular@7.0.6":
+  version "7.0.6"
+  resolved "https://artifactory.censhare.com/artifactory/api/npm/npm/@schematics/angular/-/angular-7.0.6.tgz#1173c201d118cf38d1afdb382e9a916e4b540a17"
+  integrity sha1-EXPCAdEYzzjRr9s4LpqRbktUChc=
   dependencies:
-    "@angular-devkit/core" "7.0.4"
-    "@angular-devkit/schematics" "7.0.4"
-    typescript "3.1.3"
+    "@angular-devkit/core" "7.0.6"
+    "@angular-devkit/schematics" "7.0.6"
+    typescript "3.1.6"
 
-"@schematics/update@0.10.4":
-  version "0.10.4"
-  resolved "https://artifactory.censhare.com/artifactory/api/npm/npm/@schematics/update/-/update-0.10.4.tgz#b2c7e54eadee9c7e8e1a3e50a850db5969915db2"
-  integrity sha1-ssflTq3unH6OGj5QqFDbWWmRXbI=
+"@schematics/update@0.10.6":
+  version "0.10.6"
+  resolved "https://artifactory.censhare.com/artifactory/api/npm/npm/@schematics/update/-/update-0.10.6.tgz#616e6c321cd51468eacda7fc8a0306b37f8b4ca2"
+  integrity sha1-YW5sMhzVFGjqzaf8igMGs3+LTKI=
   dependencies:
-    "@angular-devkit/core" "7.0.4"
-    "@angular-devkit/schematics" "7.0.4"
+    "@angular-devkit/core" "7.0.6"
+    "@angular-devkit/schematics" "7.0.6"
     npm-registry-client "8.6.0"
     rxjs "6.3.3"
     semver "5.5.1"
     semver-intersect "1.4.0"
 
-"@types/node@~8.9.4":
-  version "8.9.5"
-  resolved "https://artifactory.censhare.com/artifactory/api/npm/npm/@types/node/-/node-8.9.5.tgz#162b864bc70be077e6db212b322754917929e976"
-  integrity sha1-FiuGS8cL4Hfm2yErMidUkXkp6XY=
+"@types/node@~10.12.10":
+  version "10.12.10"
+  resolved "https://artifactory.censhare.com/artifactory/api/npm/npm/@types/node/-/node-10.12.10.tgz#4fa76e6598b7de3f0cb6ec3abacc4f59e5b3a2ce"
+  integrity sha1-T6duZZi33j8Mtuw6usxPWeWzos4=
 
 "@webassemblyjs/ast@1.7.6":
   version "1.7.6"
@@ -1131,10 +1132,10 @@ caniuse-lite@^1.0.30000884, caniuse-lite@^1.0.30000899:
   resolved "https://artifactory.censhare.com/artifactory/api/npm/npm/caniuse-lite/-/caniuse-lite-1.0.30000906.tgz#7c44e498a2504f7a5db3b4f91285bbc821157a77"
   integrity sha1-fETkmKJQT3pds7T5EoW7yCEVenc=
 
-canonical-path@0.0.2:
-  version "0.0.2"
-  resolved "https://artifactory.censhare.com/artifactory/api/npm/npm/canonical-path/-/canonical-path-0.0.2.tgz#e31eb937a8c93ee2a01df1839794721902874574"
-  integrity sha1-4x65N6jJPuKgHfGDl5RyGQKHRXQ=
+canonical-path@1.0.0:
+  version "1.0.0"
+  resolved "https://artifactory.censhare.com/artifactory/api/npm/npm/canonical-path/-/canonical-path-1.0.0.tgz#fcb470c23958def85081856be7a86e904f180d1d"
+  integrity sha1-/LRwwjlY3vhQgYVr56hukE8YDR0=
 
 caseless@~0.12.0:
   version "0.12.0"
@@ -5917,12 +5918,7 @@ typedarray@^0.0.6:
   resolved "https://artifactory.censhare.com/artifactory/api/npm/npm/typedarray/-/typedarray-0.0.6.tgz#867ac74e3864187b1d3d47d996a78ec5c8830777"
   integrity sha1-hnrHTjhkGHsdPUfZlqeOxciDB3c=
 
-typescript@3.1.3:
-  version "3.1.3"
-  resolved "https://artifactory.censhare.com/artifactory/api/npm/npm/typescript/-/typescript-3.1.3.tgz#01b70247a6d3c2467f70c45795ef5ea18ce191d5"
-  integrity sha1-AbcCR6bTwkZ/cMRXle9eoYzhkdU=
-
-typescript@~3.1.1:
+typescript@3.1.6, typescript@~3.1.1:
   version "3.1.6"
   resolved "https://artifactory.censhare.com/artifactory/api/npm/npm/typescript/-/typescript-3.1.6.tgz#b6543a83cfc8c2befb3f4c8fba6896f5b0c9be68"
   integrity sha1-tlQ6g8/Iwr77P0yPumiW9bDJvmg=
